@@ -1,0 +1,60 @@
+{
+  "Header": {
+    "title": "WE @ NEWNET BROADBAND",
+    "paragraph": "Best Internet service provider in Mira Road (Mumbai Region)"
+  },
+  "Plans": [
+    {
+      "name": "16 MBPS",
+      "text": "90 Days - 1800/-|180 Days - 3000/-|365 Days - 5200/-"
+    },
+    {
+      "name": "20 MBPS",
+      "text": "90 Days - 2000/-|180 Days - 3600/-|365 Days - 6200/-"
+    },
+    {
+      "name": "25 MBPS",
+      "text": "90 Days - 2400/-|180 Days - 4000/-|365 Days - 7000/-"
+    },
+    {
+      "name": "50 MBPS",
+      "text": "90 Days - 3000/-|180 Days - 5500/-|365 Days - 10000/-"
+    },
+    {
+      "name": "100 MBPS",
+      "text": "90 Days - 3600/-|180 Days - 6500/-|365 Days - 11500/-"
+    }
+  ],
+  "Contact": {
+    "contactPerson": "Mr. Prakash Jain",
+    "address": "D-15, Shanti Shopping Center, Opp. Mira Road Stn., Mira Road (East) - 401107",
+    "serviceLocation": "Mira Road (Mumbai)",
+    "phone": "+91 9987 364 629 | +91 8655 364 629",
+    "email": "info@newnetbroadband.in | newnetbroadband@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Customer First",
+      "text": "Our core business strategy is guided by customer value, customer sensitivity and customer convenience"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Win-Win for All",
+      "text": "We work for the success of our customers, employees and our ecosystem partners. We believe in empowering, motivating, appreciating and inculcating a sense of ownership among the members of our eco-system."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Reliability",
+      "text": "We very well understand the critical role Internet services play in the success of any business model. We provide this high priority services to you with complete reliability, as a result, we are the most reliable ISP Company. Also get 99.9% uptime for uninterrupted connectivity."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Security",
+      "text": "Network, Information and Physical Security are our serious concerns. This is why we are continuously monitoring and improving our systems and environment"
+    }
+  ]
+}
