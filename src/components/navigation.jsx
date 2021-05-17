@@ -9,19 +9,21 @@ export const Navigation = (props) => {
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
           >
-            {" "}
             <span className="sr-only">Toggle navigation</span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="/">
+          <a href="/">
+            <img src="img/nn-logo.jpg" alt="logo" height="65" width="170" />
+          </a>
+          {/* <a className="navbar-brand page-scroll" href="/">
             NewNet BroadBand
             <br />
             <span className="navbar-brand-tag page-scroll">
               Your Local Internet service provider
             </span>
-          </a>{" "}
+          </a> */}
         </div>
 
         <div
