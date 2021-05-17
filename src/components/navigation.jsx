@@ -14,16 +14,18 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a href="/">
-            <img src="img/nn-logo.jpg" alt="logo" height="65" width="170" />
-          </a>
-          {/* <a className="navbar-brand page-scroll" href="/">
+          <div className="myfloatLogo">
+            <a href="/">
+              <img src="img/nn-logo.jpg" alt="logo" height="80" />
+            </a>
+          </div>
+          <a className="navbar-brand page-scroll" href="/">
             NewNet BroadBand
             <br />
             <span className="navbar-brand-tag page-scroll">
               Your Local Internet service provider
             </span>
-          </a> */}
+          </a>
         </div>
 
         <div

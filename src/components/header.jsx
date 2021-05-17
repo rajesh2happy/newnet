@@ -10,10 +10,8 @@ export const Header = (props) => {
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
                 </h1>
-                <p>
-                  <strong>
-                    {props.data ? props.data.paragraph : "Loading"}
-                  </strong>
+                <p className="strongTagLine">
+                  {props.data ? props.data.paragraph : "Loading"}
                 </p>
                 <a href="#plans" className="btn btn-custom btn-lg page-scroll">
                   Explore our plans

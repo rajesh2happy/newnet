@@ -210,6 +210,11 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+div .myfloatLogo {
+  position: fixed;
+  left: 150;
+  top: 0;
+}
 /* Header Section */
 .intro {
   display: table;
@@ -250,6 +255,9 @@ header .intro-text {
   padding-top: 350px;
   padding-bottom: 200px;
   text-align: center;
+}
+header .strongTagLine {
+  font-weight: 700;
 }
 /* Features Section */
 #features {
