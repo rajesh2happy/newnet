@@ -1,6 +1,5 @@
 {
   "name": "newnet-broadband",
-  "homepage": "https://rajesh2happy.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
