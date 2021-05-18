@@ -1,3 +1,6 @@
+#page {
+  visibility: visible !important;
+}
 body,
 html {
   font-family: "Open Sans", sans-serif;
@@ -214,6 +217,11 @@ div .myfloatLogo {
   position: fixed;
   left: 150;
   top: 0;
+}
+@media screen and (max-width: 1800px) {
+  div .myfloatLogo {
+    position: static;
+  }
 }
 /* Header Section */
 .intro {
